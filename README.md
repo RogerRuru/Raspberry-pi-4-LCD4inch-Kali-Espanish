@@ -1,4 +1,4 @@
-# Raspberry-pi-4-LCD4inch-Kali-Espanish
+# Raspberry-pi-4-LCD4inch-Kali-Spanish
 LCD4 para Raspberry Pi 4 con Kali
 
 Recientemente compré una Raspberry Pi 4 para jugar con sus nuevas funciones y decidí convertirla en un dispositivo de piratería ético Kali Linux dedicado con un kit de carcasa de pantalla táctil de 4 pulgadas que obtuve de Amazon por un precio bastante bajo.
